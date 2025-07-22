@@ -1,4 +1,0 @@
-Welcome to GIT
-git repositories added
-Hello Nandini
-hi hello
